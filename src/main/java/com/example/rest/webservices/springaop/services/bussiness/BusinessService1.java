@@ -1,5 +1,6 @@
-package com.example.rest.webservices.springaop.services;
+package com.example.rest.webservices.springaop.services.bussiness;
 
+import com.example.rest.webservices.springaop.services.data.DataService1;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
